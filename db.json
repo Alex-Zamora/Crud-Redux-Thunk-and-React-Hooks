@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 11,
+      "nombre": "Didgeridoo Maguey",
+      "precio": "3500"
+    },
+    {
+      "id": 12,
+      "nombre": "Arpa de boca",
+      "precio": "15000"
+    },
+    {
+      "id": 21,
+      "nombre": "sudadera mexica",
+      "precio": "11100"
+    },
+    {
+      "nombre": "Didigeridoo Magic",
+      "precio": 5000,
+      "id": 22
+    },
+    {
+      "nombre": "Bolsa bordado a mano",
+      "precio": 4000,
+      "id": 23
+    }
+  ]
+}
